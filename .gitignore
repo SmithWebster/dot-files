@@ -1,3 +1,0 @@
-sessions/*
-bundle/*
-!bundle/Vundle.vim
